@@ -1,0 +1,38 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "706f83dc7425753dcf7ca47f346e26599a2dc688.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/706f83dc7425753dcf7ca47f346e26599a2dc688.js",
+      "size": 645924,
+      "hash": "706f83dc7425753dcf7ca47f346e26599a2dc688"
+    },
+    {
+      "path": "7ca9ef7fd25b90e05b8db79da74d675b6cdf256b.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/7ca9ef7fd25b90e05b8db79da74d675b6cdf256b.css?meteor_css_resource=true",
+      "size": 163209,
+      "hash": "7ca9ef7fd25b90e05b8db79da74d675b6cdf256b"
+    },
+    {
+      "path": "packages/alethes_pages/public/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/alethes_pages/public/loader.gif",
+      "size": 3208,
+      "hash": "313b867d11fc0dd6bc6ca47c334bbcf18956ca76"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "e223df788d0dfc9b02df3f5b4888f44d01bd70e6"
+    }
+  ]
+}
